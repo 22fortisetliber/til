@@ -1,0 +1,1 @@
+a place that i learn and talk shit about AI
