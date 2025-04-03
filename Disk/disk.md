@@ -24,5 +24,5 @@
 
 ## Update partition
 ```
-resize3fs /dev/sda5 
+resize2fs /dev/sda5 
 ```
